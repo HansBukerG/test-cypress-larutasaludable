@@ -1,0 +1,14 @@
+{
+  "name": "cypress-test-larutasaludable",
+  "version": "1.0.0",
+  "description": "This is a test examplefor the website larutasaludable",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "HansBukerG",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
